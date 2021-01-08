@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<bibliotheque>
+        <livres id="01">
+                <livre>
+                        <titre>L'Anomalie</titre>
+                        <auteurs>
+                                <auteur>Herve le Tellier</auteur>
+                        </auteurs>
+                        <editeur>Gallimard</editeur>
+                        <description>«Il est une chose admirable qui surpasse toujours la connaissance, l’intelligence, et même le génie, c’est l’incompréhension.»
+En juin 2021, un événement insensé bouleverse les vies de centaines d’hommes et de femmes, tous passagers d’un vol Paris-New York. Parmi eux : Blake, père de famille respectable et néanmoins tueur à gages ; Slimboy, pop star nigériane, las de vivre dans le mensonge ; Joanna, redoutable avocate rattrapée par ses failles ; ou encore Victor Miesel, écrivain confidentiel soudain devenu culte.
+Tous croyaient avoir une vie secrète. Nul n’imaginait à quel point c’était vrai.
+Roman virtuose où la logique rencontre le magique, L’anomalie explore cette part de nous-mêmes qui nous échappe. </description>
+                </livre>
+                <pages>336 pages</pages>
+                <couverture src="./IMG/L-anomalie.jpg" />
+                <prix>20€</prix>
+                <edition>1ere edition</edition>
+                <parution>20-08-2020</parution>
+        </livres>
+
+         <livres id="02">
+                <livre>
+                        <titre>Tous les hommes n'habitent pas le monde de la meme façon</titre>
+                        <auteurs>
+                                <auteur>Jean-Paul Dubois</auteur>
+                        </auteurs>
+                        <editeur>Editions de l'Olivier</editeur>
+                        <description>Cela fait deux ans que Paul Hansen purge sa peine dans la prison provinciale de Montréal. Il y partage une cellule avec Horton, un Hells Angel incarcéré pour meurtre.
+
+Retour en arrière: Hansen est superintendant a L'Excelsior, une résidence où il déploie ses talents de concierge, de gardien, de factotum, et – plus encore – de réparateur des âmes et consolateur des affligés. Lorsqu'il n'est pas occupé à venir en aide aux habitants de L'Excelsior ou à entretenir les bâtiments, il rejoint Winona, sa compagne. Aux commandes de son aéroplane, elle l'emmène en plein ciel, au-dessus des nuages. Mais bientôt tout change. Un nouveau gérant arrive à L'Excelsior, des conflits éclatent. Et l'inévitable se produit.
+
+Une église ensablée dans les dunes d'une plage, une mine d'amiante à ciel ouvert, les méandres d'un fleuve couleur argent, les ondes sonores d'un orgue composent les paysages variés où se déroule ce roman.
+
+Histoire d'une vie, Tous les hommes n'habitent pas le monde de la même façon est l'un des plus beaux livres de Jean-Paul Dubois. On y découvre un écrivain qu'animent le sens aigu de la fraternité et un sentiment de révolte à l'égard de toutes les formes d'injustice.
+ </description>
+                </livre>
+                <pages>256 pages</pages>
+                <couverture src="./IMG/Tous-les-hommes-n-habitent-pas-le-monde-de-la-meme-facon.jpg" />
+                <prix>19€</prix>
+                <edition>1ere edition</edition>
+                <parution>août 2019 </parution>
+        </livres>
+
+        <livres id="03">
+                <livre>
+                        <titre>Tous les hommes n'habitent pas le monde de la meme façon</titre>
+                        <auteurs>
+                                <auteur>Nicolas Mathieu</auteur>
+                        </auteurs>
+                        <editeur>Actes Sud</editeur>
+                        <description>Août 1992. Une vallée perdue quelque part à l’Est, des hauts fourneaux qui ne brûlent plus, un lac, un après-midi de canicule. Anthony a 14 ans, et avec son cousin, ils s’emmerdent comme c’est pas permis. C’est là qu’ils décident de voler un canoë pour aller voir ce qui se passe de l’autre côté, sur la fameuse plage des culs-nus. Au bout, ce sera pour Anthony le premier amour, le premier été, celui qui décide de toute la suite. Ce sera le drame de la vie qui commence.
+Avec ce livre, Nicolas Mathieu écrit le roman d’une vallée, d’une époque, de l’adolescence, le récit politique d’une jeunesse qui doit trouver sa voie dans un monde qui meurt. Quatre étés, quatre moments, de Smells Like Teen Spirit à la Coupe du monde 98, pour raconter des vies à toute vitesse dans cette France de l’entre-deux, des villes moyennes et des zones pavillonnaires, de la cambrousse et des ZAC bétonnées. La France du Picon et de Johnny Halliday, des fêtes foraines et d'Intervilles, des hommes usés au travail et des amoureuses fanées à vingt ans. Un pays loin des comptoirs de la mondialisation, pris entre la nostalgie et le déclin, la décence et la rage.
+</description>
+                </livre>
+                <pages> 432 pages</pages>
+                <couverture src="./IMG/M02330108710-large.jpg" />
+                <prix>21.80€</prix>
+                <edition>1ere edition</edition>
+                <parution>août 2018 </parution>
+        </livres>
+
+        <livres id="04">
+                <livre>
+                        <titre>Tous les hommes n'habitent pas le monde de la meme façon</titre>
+                        <auteurs>
+                                <auteur>Eric Vuillard</auteur>
+                        </auteurs>
+                        <editeur>Actes Sud</editeur>
+                        <description>L'Allemagne nazie a sa légende. On y voit une armée rapide, moderne, dont le triomphe parait inexorable. Mais si au fondement de ses premiers exploits se découvraient plutôt des marchandages, de vulgaires combinaisons d'intérêts ?
+
+Et si les glorieuses images de la Wehrmacht entrant triomphalement en Autriche dissimulaient un immense embouteillage de panzers ? Une simple panne!
+
+Une démonstration magistrale et grinçante des coulisses de l'Anschluss par l'auteur de "Tristesse de la terre" et de "14 juillet"
+</description>
+                </livre>
+                <pages> 160 pages</pages>
+                <couverture src="./IMG/M02330108710-large.jpg" />
+                <prix>16€</prix>
+                <edition>1ere edition</edition>
+                <parution>mai, 2017 </parution>
+        </livres>
+
+        <livres id="05">
+                <livre>
+                        <titre>Chanson douce </titre>
+                        <auteurs>
+                                <auteur>Leila Slimani</auteur>
+                        </auteurs>
+                        <editeur>Gallimard</editeur>
+                        <description>Lorsque Myriam, mère de deux jeunes enfants, décide malgré les réticences de son mari de reprendre son activité au sein d'un cabinet d'avocats, le couple se met à la recherche d'une nounou. Après un casting sévère, ils engagent Louise, qui conquiert très vite l'affection des enfants et occupe progressivement une place centrale dans le foyer. Peu à peu le piège de la dépendance mutuelle va se refermer, jusqu'au drame.
+À travers la description précise du jeune couple et celle du personnage fascinant et mystérieux de la nounou, c'est notre époque qui se révèle, avec sa conception de l'amour et de l'éducation, des rapports de domination et d'argent, des préjugés de classe ou de culture.
+Le style sec et tranchant de Leïla Slimani, où percent des éclats de poésie ténébreuse, instaure dès les premières pages un suspense envoûtant.
+</description>
+                </livre>
+                <pages> 256 pages</pages>
+                <couverture src="./IMG/M02330108710-large.jpg" />
+                <prix>18€</prix>
+                <edition>1ere edition et 2em edition</edition>
+                <parution>18/08/2016 2018</parution>
+        </livres>
+</bibliotheque>
